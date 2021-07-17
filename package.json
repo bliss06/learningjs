@@ -26,8 +26,10 @@
     "@babel/preset-env": "^7.14.2",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
+    "eslint": "^7.26.0",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
-    "gulp-connect": "^5.7.0"
+    "gulp-connect": "^5.7.0",
+    "gulp-eslint": "^6.0.0"
   }
 }
