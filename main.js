@@ -5,6 +5,7 @@ $(document).ready(function(){
 
     var tool = new Tool();
     var c = Shape.Circle(200, 200, 80);
+    
     c.fillColor = 'pink';
     var text = new PointText(200, 200);
     text.justification = 'center';
